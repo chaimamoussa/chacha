@@ -4,7 +4,7 @@ Free for personal and commercial use under the CCA 3.0 license (html5up.net/lice
 paradigm Shift by HTML5 UP 
 Isitcom Hammam Sousse 
 chaima moussa 
-1MPSSR Master
+1MPSSR Master PRO
 Say hello to Multiverse, a slick, one-page gallery design with a fully functional lightbox
 (courtesy of my Poptrox plugin for jQuery) and a custom, reusable "panel" system (click the
 "About" button in the lower right to see what I mean). Had a ton of fun putting this one
